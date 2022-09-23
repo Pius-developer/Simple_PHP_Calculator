@@ -1,0 +1,1 @@
+This is a simple PHP calculator. Used to introduce PHP to a beginner.
