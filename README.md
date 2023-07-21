@@ -1,1 +1,1 @@
-This is a simple PHP calculator. Used to introduce PHP to a beginner.
+This is a simple PHP calculator. This was used to introdue PHP to a newbie, emphasis on if statement.
