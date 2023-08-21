@@ -3,6 +3,7 @@
 <head>
 	<title>Calculator</title>
 </head>
+	
 <body>
 
 	<form method="GET">
