@@ -66,13 +66,6 @@ if (isset($_GET['submit'])) {
 			
 	}
 }
-
-
-
-
-
-
-
 	?>
 
 </body>
